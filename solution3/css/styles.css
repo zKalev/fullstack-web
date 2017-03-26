@@ -1,0 +1,41 @@
+#head{
+	background-color: gray;
+	border:solid;
+}
+
+hr {
+  border: 1px solid;
+  width: 100%;
+}
+
+#head-name{
+
+}
+
+.menu-item{
+	background-color: gray;
+	
+
+}
+
+.links{
+	
+    outline: 1px solid ;
+
+}
+
+
+.nav-bar-cust{
+	background-color: rgb(255,255,255);
+	
+}
+
+.empty{
+    height: 20px;
+}
+
+@media screen and (min-width: 767px) {
+   #bs-example-navbar-collapse-1{
+   	visibility: hidden;
+   }
+}
